@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_positif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8422"
+            android:textSize="25sp"
+            android:textColor="#FF8748"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Positif"
+            android:fontFamily="@font/poppinsmedium"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginStart="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_meninggal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8422"
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:textColor="#FF4F4F"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Meninggal"
+            android:fontFamily="@font/poppinsmedium"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginStart="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_sembuh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8422"
+            android:textSize="25sp"
+            android:textColor="#38C12E"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sembuh"
+            android:fontFamily="@font/poppinsmedium"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+</LinearLayout>

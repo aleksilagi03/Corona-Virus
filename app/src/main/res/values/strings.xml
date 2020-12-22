@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Corona Virus</string>
+    <string name="home">Home</string>
+    <string name="informasi">Informasi</string>
+    <string name="instagram">IG : <a href="https://www.instagram.com/aleksi2310">@aleksi2310</a></string>
+    <string name="loading">Loading data...</string>
+    <string name="fakultas">Fakultas Ilmu Komputer</string>
+    <string name="univ">Univeristas Sriwijaya</string>
+</resources>
