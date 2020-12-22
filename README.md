@@ -1,6 +1,6 @@
 # Corona-Virus
 Izin pak, Ini saya menggunakan laptop teman untuk membuat aplikasi dan commit dari android studio ke github. 
-Dikarenakan laptop saya tidak memenuhi spesifikasi. Itu lah mengapa user yang tertera itu bukan nama aleksilagi03 tetapi gustho11.
+Dikarenakan laptop saya tidak memenuhi spesifikasi. Itu lah mengapa user yang tertera itu gustho11.
 Terima Kasih.
 
 Nama Aplikasi : Corona Virus
